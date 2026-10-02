@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# AI model files
+*.pt
+*.onnx
+*.weights
+
+# Videos and generated output
+videos/*
+output/*
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
